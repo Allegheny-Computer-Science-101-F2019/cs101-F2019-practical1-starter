@@ -183,9 +183,9 @@ directory for this assignment where the `build.gradle` file is located.
 ## Expected Program Output
 
 Typing the command `gradle run` in the terminal window should produce the
-following output for the completed version of `CreditCard`. As long as your
-program adheres to all of the requirements for the assignment and passes all of
-the verification checks, your version should produce similar output. With that
+following output for the completed version of `Swap`. As long as your program
+adheres to all of the requirements for the assignment and passes all of the
+verification checks, your version should produce similar output. With that
 said, program output may vary according to, for instance, the name of the
 programmer and the date on which you ran the program.
 
